@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Sayed Mohammed Nouman and I am junior pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies 
+My Name is **Sayed Mohammed Nouman** and I am junior pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies 
 <!--
 **Skyhero-admin/Skyhero-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
