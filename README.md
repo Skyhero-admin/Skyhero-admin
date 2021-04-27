@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is **Sayed Mohammed Nouman** and I am junior pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies. 
+My name is **Sayed Mohammed Nouman** and I am junior pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies. 
 
 - 🔭 I’m currently working on getting started with open source ;P
 - 🌱 I’m currently learning Node,Express and MongoDB
