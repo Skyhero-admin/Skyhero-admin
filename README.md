@@ -1,5 +1,4 @@
-<img src="https://github.com/Skyhero-admin/Skyhero-admin/blob/main/gitretroroom.gif" width=600px >
-<img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
+![Alt Text](https://github.com/Skyhero-admin/Skyhero-admin/blob/main/gitretroroom.gif)<img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
 ### Hi there 👋
 
 My name is **Sayed Mohammed Nouman** and I go by the alias of **Skyhero** online.I am in my freshman year pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies. 
