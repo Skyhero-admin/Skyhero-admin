@@ -1,4 +1,4 @@
-<img src="https://github.com/Skyhero-admin/Skyhero-admin/blob/main/gitretroroom.gif" width=800px >
+<img src="https://github.com/Skyhero-admin/Skyhero-admin/blob/main/gitretroroom.gif" width=700px >
 <img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
 ### Hi there 👋
 
