@@ -1,6 +1,5 @@
 ![Alt Text](https://github.com/Skyhero-admin/Skyhero-admin/blob/main/gitretroroom.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&layout=compact)](https://github.com/Skyhero-admin/github-readme-stats)
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8)](https://github.com/Skyhero-admin/github-readme-stats)### Hi there 👋
 
 My name is **Sayed Mohammed Nouman** and I am in my freshman year pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies. 
 
