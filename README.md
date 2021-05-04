@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of "The Legend of Zelda" franchise 😄
 -->
-[![Skyhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyhero-admin)](https://github.com/Skyhero-admin/github-readme-stats)
+[![Skyhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyhero-admin)](https://github.com/Skyhero-admin/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
