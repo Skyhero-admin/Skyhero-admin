@@ -1,6 +1,6 @@
 
 <img src="./gitretroroom.gif" alt="I am Skyhero">
-<img style="float:right;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
+<img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
 
 ###Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
