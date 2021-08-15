@@ -6,7 +6,10 @@ $cat /etc/aboutMe.txt
 
 Hi there
 
-My name is Sayed Mohammed Nouman and I go by the alias of Skyhero. I am in my freshman year pursuing my bachelor's of engineering in Information Technology. I am very interested in contributing to open source projects and collaborating with different people and learning new and more about different technologies.
+My name is Sayed Mohammed Nouman and I go by the alias of Skyhero.
+I am in my freshman year pursuing my bachelor's of engineering in Information Technology.
+I am very interested in contributing to open source projectsand collaborating with different people
+and learning new and more about different technologies.
 ```
 <img src="./runninglink.gif" alt="I am Skyhero" align=right>
 
