@@ -11,8 +11,10 @@ I am in my freshman year pursuing my bachelor's of engineering in Information Te
 I am very interested in contributing to open source projectsand collaborating with different people
 and learning new and more about different technologies.
 ```
+<!--
 <img src="./runninglink.gif" alt="I am Skyhero" align=right>
-
+-->
+```console
 - 🔭 I’m currently working on getting started with open source ;P
 - 🌱 I’m currently learning the basics of Javascript and a little DSA
 - 👯 I’m looking to collaborate on anything I can help with
@@ -21,7 +23,7 @@ and learning new and more about different technologies.
 - 📫 How to reach me: skyhero.code@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of "The Legend of Zelda" franchise 😄
-
+```
 <!--
 **Skyhero-admin/Skyhero-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
