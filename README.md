@@ -2,7 +2,7 @@
 <img src="./gitretroroom.gif" alt="I am Skyhero"><img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
 
 ```console
-$cat /etc/aboutMe.txt
+$ cat /etc/aboutMe.txt
 
 Hi there
 
