@@ -1,19 +1,18 @@
 
-<img src="./gitretroroom.gif" alt="I am Skyhero"><img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
+<p><img src="./gitretroroom.gif" alt="I am Skyhero">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
+</p>
 
 ```console
-$ cat /etc/aboutMe.txt
+$ cat /life/aboutMe.txt
 
 Hi there
 
 My name is Sayed Mohammed Nouman and I go by the alias of Skyhero.
 I am in my freshman year pursuing my bachelor's of engineering in Information Technology.
-I am very interested in contributing to open source projectsand collaborating with different people
+I am very interested in contributing to open source projects and collaborating with different people
 and learning new and more about different technologies.
 ```
-<!--
-<img src="./runninglink.gif" alt="I am Skyhero" align=right>
--->
 ```console
 - 🔭 I’m currently working on getting started with open source ;P
 - 🌱 I’m currently learning the basics of Javascript and a little DSA
@@ -24,6 +23,9 @@ and learning new and more about different technologies.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of "The Legend of Zelda" franchise 😄
 ```
+<!--
+<img src="./runninglink.gif" alt="I am Skyhero" align=right>
+-->
 <!--
 **Skyhero-admin/Skyhero-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
