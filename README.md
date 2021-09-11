@@ -16,3 +16,5 @@ My name is **Sayed Mohammed Nouman** and I go by the alias of **Skyhero**.I am i
 - 📫 How to reach me: skyhero.code@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of "The Legend of Zelda" franchise 😄
+
+<img src="https://github-readme-stats.vercel.app/api?username=Skyhero-admin&count_private=true&show_icons=true&theme=tokyonight">
